@@ -3,7 +3,7 @@
 This Privacy Policy outlines how information is collected, used, and managed by Twitter FollowUp. By using the bot, you agree to the terms outlined below.
 
 **1. Information Collected:**
-   - The bot collects limited user data, including the names of Twitter users followed, the ID of the user's Discord server, and the ID of the Discord channel. This information is stored securely.
+   - The bot collects limited user data, including the names of Twitter users followed, the ID of the guild Discord server, and the ID of the Discord channel. This information is stored securely.
 
 **2. Use of Information:**
    - The collected information is solely used for the purpose of transcribing Twitter messages onto Discord. No private user data is shared or sold to third parties.
